@@ -48,7 +48,7 @@ Estrutura PWA com manifest e service worker (mock incluído)
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/mosaico-geografico.git
+git clone https://github.com/wslanyl/Mosaico-Geogr-fico-em-PWA.git
 cd mosaico-geografico
 
 
